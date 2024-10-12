@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "835234085525",
+    "firebase_url": "https://agro-kai-default-rtdb.firebaseio.com",
+    "project_id": "agro-kai",
+    "storage_bucket": "agro-kai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835234085525:android:7f3ad0acf39b2d22d6399c",
+        "android_client_info": {
+          "package_name": "com.example.agro_kai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFy4Rarj3WFT8VAHjwHehN3OZM9lVb3GY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835234085525:android:cbc39e2db22f598fd6399c",
+        "android_client_info": {
+          "package_name": "com.example.dummy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFy4Rarj3WFT8VAHjwHehN3OZM9lVb3GY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
