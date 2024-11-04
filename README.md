@@ -28,7 +28,10 @@
   <h1>AgroKAI</h1>
 
   <p>
-    An awesome README template to jumpstart your projects!
+    ● Built a platform to detect 25+ plant diseases, with organic treatment recommendations and to calculate soil
+ fertility based on mineral levels, featuring an intuitive dashboard for visual data representation.
+   ● Implemented a Crop Water Requirement calculator based on weather conditions, moisture levels, motor power
+ & irrigation area, with an automatic & remote water motor controlling system.
     <br />
   </p>
 </div>
