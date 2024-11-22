@@ -131,12 +131,12 @@ Follow these instructions to install and configure AgroKAI:
 
 4. **Configure the Image Classification Model and REST API**
    - AgroKAI uses a TensorFlow Lite model for plant disease detection. Ensure that `disease_model.tflite` is placed in the correct assets directory.
-   - REST APIs are required for soil fertility and irrigation predictions. Set up the APIs as per your requirements and update the API endpoints in the app configuration files.
+   - REST APIs are required for soil fertility and plant disease predictions. Set up the APIs as per your requirements and update the API endpoints in the app configuration files.
 
 5. **Change Git Remote URL (Optional)**
    To avoid accidental pushes to the main project repository, change the git remote URL:
    ```sh
-   git remote set-url origin https://github.com/your_username/AgroKAI.git
+   git remote set-url origin https://github.com/aashika-j18/AgroKAI.git
    git remote -v # confirm the changes
    ```
 
