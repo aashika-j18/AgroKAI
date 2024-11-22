@@ -69,7 +69,7 @@ AgroKAI is a smart farming app designed to simplify agricultural management for 
 
 The app is divided into three main parts:
 1. **Plant Disease Detection** - Uses a TensorFlow Lite (TFLite) image classification model to detect potential plant diseases from images, offering organic solution suggestions.
-2. **Soil Fertility Monitoring** - Tracks changes in soil fertility, nitrogen (N), phosphorus (P), and potassium (K) levels, predicting future fertility trends through a random forest regression model accessible via REST API.
+2. **Soil Fertility Monitoring** - Tracks changes in soil fertility, nitrogen (N), phosphorus (P), and potassium (K) levels, predicting future fertility trends through a random forest regression model.
 3. **Irrigation Management** - Calculates crop water requirements using real-time environmental data (rainfall, humidity, temperature, wind speed) and sets up the motor timer, integrating motor control and usage logs.
 
 Data is stored and accessed in Firebase Firestore through three primary collections: soil data, irrigation data, and motor logs.
@@ -81,12 +81,12 @@ AgroKAI aims to streamline farming practices by delivering actionable insights, 
 
 ### Built With
 
-This project leverages the following frameworks and libraries to deliver a robust, high-performance application for farmers:
+This project leverages the following frameworks and libraries:
 
 * [![Flutter][Flutter.dev]][Flutter-url] - The primary framework for building the cross-platform app.
 * [![Firebase][Firebase.com]][Firebase-url] - Used for real-time database, Firestore storage, and authentication.
 * [![TensorFlow Lite][TFLite]][TFLite-url] - For the on-device plant disease detection model.
-* [![REST API][RESTAPI]][RESTAPI-url] - Enables soil fertility and irrigation predictions with machine learning models hosted as APIs.
+* [![Flask][Flask]][Flask-url] - To host the soil fertility and irrigation prediction models.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -97,8 +97,9 @@ This project leverages the following frameworks and libraries to deliver a robus
 [Firebase-url]: https://firebase.google.com/
 [TFLite]: https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
 [TFLite-url]: https://www.tensorflow.org/lite
-[RESTAPI]: https://img.shields.io/badge/REST%20API-007ACC?style=for-the-badge&logo=api&logoColor=white
-[RESTAPI-url]: https://en.wikipedia.org/wiki/Representational_state_transfer
+[Flask]: https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white
+[Flask-url]: https://flask.palletsprojects.com/
+
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -165,25 +166,19 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 
 ### Contributors:
-
-<a href="https://github.com/othneildrew/Best-README-Template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=othneildrew/Best-README-Template" alt="contrib.rocks image" />
-</a>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+ 
+<a href="https://github.com/aashika-j18">
+  <img src="https://avatars.githubusercontent.com/aashika-j18?v=4" width="100px" height="100px" style="border-radius: 50%;" alt="aashika-j18" />
+</a>  
+<a href="https://github.com/kv-06">
+  <img src="https://avatars.githubusercontent.com/kv-06?v=4" width="100px" height="100px" style="border-radius: 50%;" alt="kv-06" />
+</a>  
+<a href="https://github.com/ckritk">
+  <img src="https://avatars.githubusercontent.com/ckritk?v=4" width="100px" height="100px" style="border-radius: 50%;" alt="ckritk" />
+</a> 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
