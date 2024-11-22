@@ -168,14 +168,15 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 ### Contributors:
  
 <a href="https://github.com/aashika-j18">
-  <img src="https://avatars.githubusercontent.com/aashika-j18?v=4" width="100px" height="100px" style="border-radius: 50%;" alt="aashika-j18" />
-</a>  
+  <img src="https://avatars.githubusercontent.com/aashika-j18?v=4" width="100px" height="100px" style="clip-path: circle(50%); -webkit-clip-path: circle(50%);" alt="aashika-j18" />
+</a>
 <a href="https://github.com/kv-06">
-  <img src="https://avatars.githubusercontent.com/kv-06?v=4" width="100px" height="100px" style="border-radius: 50%;" alt="kv-06" />
-</a>  
+  <img src="https://avatars.githubusercontent.com/kv-06?v=4" width="100px" height="100px" style="clip-path: circle(50%); -webkit-clip-path: circle(50%);" alt="kv-06" />
+</a>
 <a href="https://github.com/ckritk">
-  <img src="https://avatars.githubusercontent.com/ckritk?v=4" width="100px" height="100px" style="border-radius: 50%;" alt="ckritk" />
-</a> 
+  <img src="https://avatars.githubusercontent.com/ckritk?v=4" width="100px" height="100px" style="clip-path: circle(50%); -webkit-clip-path: circle(50%);" alt="ckritk" />
+</a>
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
