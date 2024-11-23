@@ -28,7 +28,6 @@
   </ol>
 </details>
 
-<a id="about-the-project"></a>
 ## About The Project
 
 
@@ -72,18 +71,15 @@ This project leverages the following frameworks and libraries:
 [Flask-url]: https://flask.palletsprojects.com/
 
 
-<a id="getting-started"></a>
 <!-- GETTING STARTED -->
 ## Getting Started
 
 To set up a local copy of AgroKAI and start developing or testing the app, follow these steps.
 
-<a id="prerequisites"></a>
 ### Prerequisites
 
 Ensure that you have Flutter installed and configured in your development environment. You can follow the [official Flutter installation guide](https://flutter.dev/docs/get-started/install) for setup instructions.
 
-<a id="installation"></a>
 ### Installation
 
 Follow these instructions to install and configure AgroKAI:
@@ -129,7 +125,6 @@ Follow these instructions to install and configure AgroKAI:
 
 
 
-<a id="contributors"></a>
 ### Contributors:
  
 <a href="https://github.com/aashika-j18">
