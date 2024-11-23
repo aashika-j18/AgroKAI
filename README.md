@@ -7,7 +7,6 @@
 
 
 
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -25,15 +24,11 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#contributers">Contributing</a></li>
   </ol>
 </details>
 
+<a id="about-the-project"></a>
 ## About The Project
 
 
@@ -41,11 +36,12 @@
 AgroKAI is a smart farming app designed to simplify agricultural management for farmers, with functionalities that provide insights on soil fertility, predict plant diseases, and help optimize irrigation. Built on Flutter and Firebase, AgroKAI utilizes machine learning and sensor data integration to enhance decision-making in farming. 
 
 The app is divided into three main parts:
-1. **Plant Disease Detection** - Uses a TensorFlow Lite (TFLite) image classification model to detect potential plant diseases from images, offering organic solution suggestions.
-2. **Soil Fertility Monitoring** - Tracks changes in soil fertility, nitrogen (N), phosphorus (P), and potassium (K) levels, predicting future fertility trends through a random forest regression model.
-3. **Irrigation Management** - Calculates crop water requirements using real-time environmental data (rainfall, humidity, temperature, wind speed) and sets up the motor timer, integrating motor control and usage logs.
+1. 🌾**Plant Disease Detection** - Uses a TensorFlow Lite (TFLite) image classification model to detect potential plant diseases from images, offering organic solution suggestions.
+2. 🌏 **Soil Fertility Monitoring** - Tracks changes in soil fertility, nitrogen (N), phosphorus (P), and potassium (K) levels, predicting future fertility trends through a random forest regression model.
+3. 💧 **Irrigation Management** - Calculates crop water requirements using real-time environmental data (rainfall, humidity, temperature, wind speed) and sets up the motor timer, integrating motor control and usage logs.
 
 Data is stored and accessed in Firebase Firestore through three primary collections: soil data, irrigation data, and motor logs.
+
 =======
 
 
@@ -53,7 +49,7 @@ AgroKAI aims to streamline farming practices by delivering actionable insights, 
   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+<a id="built-with"></a>
 ### Built With
 
 
@@ -77,15 +73,18 @@ This project leverages the following frameworks and libraries:
 [Flask-url]: https://flask.palletsprojects.com/
 
 
+<a id="getting-started"></a>
 <!-- GETTING STARTED -->
 ## Getting Started
 
 To set up a local copy of AgroKAI and start developing or testing the app, follow these steps.
 
+<a id="prerequisites"></a>
 ### Prerequisites
 
 Ensure that you have Flutter installed and configured in your development environment. You can follow the [official Flutter installation guide](https://flutter.dev/docs/get-started/install) for setup instructions.
 
+<a id="installation"></a>
 ### Installation
 
 Follow these instructions to install and configure AgroKAI:
@@ -119,26 +118,6 @@ Follow these instructions to install and configure AgroKAI:
 =======
 
 
-<table align="center" class="table table-dark">
-  <tr bg-dark>
-    <td align="center" widht="90">
-      <img src="https://skillicons.dev/icons?i=flutter" alt="icon" width="55" height="55" />
-      <br>Flutter
-    </td>
-    <td align="center" widht="90">
-      <img src="https://skillicons.dev/icons?i=dart" alt="icon" width="55" height="55" />
-      <br>Dart
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=flask" alt="icon" width="55" height="55" />
-      <br>Flask
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=firebase" width="55" height="55" alt="icon" />
-      <br>Firebase
-    </td>
-  </tr>
-</table>
 
 
 
@@ -151,7 +130,7 @@ Follow these instructions to install and configure AgroKAI:
 
 
 
-
+<a id="contributers"></a>
 ### Contributors:
  
 <a href="https://github.com/aashika-j18">
@@ -169,19 +148,6 @@ Follow these instructions to install and configure AgroKAI:
 
 
 
-
-### Acknowledgments  
-We’d like to thank the following resources, tools, and frameworks that made the development of AgroKAI possible:
-
-- [Flutter Documentation](https://flutter.dev/docs) 
-- [Firebase Console](https://firebase.google.com/) 
-- [TensorFlow Lite](https://www.tensorflow.org/lite) 
-- [Scikit-Learn Documentation](https://scikit-learn.org/stable/documentation.html) 
-- [Img Shields](https://shields.io/)  
-- [Font Awesome](https://fontawesome.com/)  
-- [REST API Best Practices](https://restfulapi.net/) 
-- [GitHub Pages](https://pages.github.com/) 
-=======
 
 
 
