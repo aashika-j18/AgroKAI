@@ -41,13 +41,10 @@ The app is divided into three main parts:
 
 Data is stored and accessed in Firebase Firestore through three primary collections: soil data, irrigation data, and motor logs.
 
-
-
-AgroKAI aims to streamline farming practices by delivering actionable insights, all in a user-friendly mobile interface.
   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Built With
+## Built With
 
 
 This project leverages the following frameworks and libraries:
@@ -125,7 +122,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 
-### Contributors:
+## Contributors:
  
 <a href="https://github.com/aashika-j18">
   <img src="https://avatars.githubusercontent.com/aashika-j18?v=4" width="100px" height="100px" style="clip-path: circle(50%); -webkit-clip-path: circle(50%);" alt="aashika-j18" />
