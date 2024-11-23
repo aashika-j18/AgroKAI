@@ -41,7 +41,6 @@ The app is divided into three main parts:
 
 Data is stored and accessed in Firebase Firestore through three primary collections: soil data, irrigation data, and motor logs.
 
-=======
 
 
 AgroKAI aims to streamline farming practices by delivering actionable insights, all in a user-friendly mobile interface.
@@ -110,7 +109,7 @@ Follow these instructions to install and configure AgroKAI:
    git remote set-url origin https://github.com/aashika-j18/AgroKAI.git
    git remote -v # confirm the changes
    ```
-=======
+
 
 
 
@@ -121,7 +120,8 @@ Follow these instructions to install and configure AgroKAI:
 
 
 
-
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
 
