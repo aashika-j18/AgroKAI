@@ -24,7 +24,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#contributers">Contributing</a></li>
+    <li><a href="#contributors">Contributors</a></li>
   </ol>
 </details>
 
@@ -49,7 +49,6 @@ AgroKAI aims to streamline farming practices by delivering actionable insights, 
   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<a id="built-with"></a>
 ### Built With
 
 
@@ -130,7 +129,7 @@ Follow these instructions to install and configure AgroKAI:
 
 
 
-<a id="contributers"></a>
+<a id="contributors"></a>
 ### Contributors:
  
 <a href="https://github.com/aashika-j18">
